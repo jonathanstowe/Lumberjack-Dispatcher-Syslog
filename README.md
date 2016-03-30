@@ -2,7 +2,7 @@
 
 A Syslog dispatcher for the Lumberjack logger
 
-![Build Status](https://travis-ci.org/jonathanstowe/Lumberjack-Dispatcher-Syslog.svg?branch=master)](https://travis-ci.org/jonathanstowe/Lumberjack-Dispatcher-Syslog)
+[![Build Status](https://travis-ci.org/jonathanstowe/Lumberjack-Dispatcher-Syslog.svg?branch=master)](https://travis-ci.org/jonathanstowe/Lumberjack-Dispatcher-Syslog)
 
 ## Synopsis
 
