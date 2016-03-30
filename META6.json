@@ -9,7 +9,7 @@
    "tags" : ["logger", "log", "syslog", "lumberjack"],
    "perl" : "6.c",
    "auth" : "github:jonathanstowe",
-   "version" : "0.0.1",
+   "version" : "0.0.2",
    "support" : {
       "source" : "git@github.com:jonathanstowe/Lumberjack-Dispatcher-Syslog.git"
    },
