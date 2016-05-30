@@ -76,7 +76,7 @@ well as Log::Syslog::Native which this uses to send the messages.
 If you have any problems or suggestions for the module itself then
 please feel free to post at https://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog/issues
 
-## License and copyright
+## Licence and copyright
 
 This is free software. Please see the LICENCE file in the repository.
 
