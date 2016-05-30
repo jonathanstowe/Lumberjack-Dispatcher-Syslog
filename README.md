@@ -78,7 +78,7 @@ please feel free to post at https://github.com/jonathanstowe/Lumberjack-Dispatch
 
 ## License and copyright
 
-This is free software. Please see the LICENSE file in the repository.
+This is free software. Please see the LICENCE file in the repository.
 
 	© Jonathan Stowe, 2016
 
