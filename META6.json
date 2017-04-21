@@ -14,7 +14,7 @@
       "source" : "git@github.com:jonathanstowe/Lumberjack-Dispatcher-Syslog.git"
    },
    "source-url" : "git@github.com:jonathanstowe/Lumberjack-Dispatcher-Syslog.git",
-   "license" : "perl",
+   "license" : "Artistic-2.0",
    "meta6" : "0",
    "name" : "Lumberjack::Dispatcher::Syslog",
    "resource" : {},
