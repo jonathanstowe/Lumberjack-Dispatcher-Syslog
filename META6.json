@@ -1,8 +1,8 @@
 {
   "name": "Lumberjack::Dispatcher::Syslog",
-  "source-url": "git@github.com:jonathanstowe/Lumberjack-Dispatcher-Syslog.git",
+  "source-url": "git://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog.git",
   "support": {
-    "source": "git@github.com:jonathanstowe/Lumberjack-Dispatcher-Syslog.git"
+    "source": "git://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog.git"
   },
   "perl": "6.*",
   "resources": [
