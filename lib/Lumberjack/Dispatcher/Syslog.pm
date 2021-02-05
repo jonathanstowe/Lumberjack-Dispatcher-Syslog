@@ -137,4 +137,4 @@ class Lumberjack::Dispatcher::Syslog does Lumberjack::Dispatcher {
         $!logger.log(%!level-map{$message.level}, $formatted-message);
     }
 }
-# vim: expandtab shiftwidth=4 ft=perl6
+# vim: expandtab shiftwidth=4 ft=raku

@@ -1,6 +1,6 @@
 {
   "name": "Lumberjack::Dispatcher::Syslog",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "auth": "github:jonathanstowe",
   "api": "1.0",
   "description": "A Syslog dispatcher for the Lumberjack logger",
@@ -10,6 +10,7 @@
     "bugtracker": "https://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog/issues"
   },
   "perl": "6.*",
+  "raku": "6.*",
   "resources": [],
   "build-depends": [],
   "depends": [
@@ -30,5 +31,5 @@
   "authors": [
     "Jonathan Stowe <jns+gh@gellyfish.co.uk>"
   ],
-  "meta-version": "0"
+  "meta-version": "1"
 }

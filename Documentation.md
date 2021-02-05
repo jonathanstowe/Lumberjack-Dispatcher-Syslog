@@ -38,7 +38,7 @@ DESCRIPTION
 
 This provides a dispatcher for [Lumberjack](https://github.com/jonathanstowe/Lumberjack) which allows you to log to your system's `syslog` facility, this may log to various log files in, for instance, `/var/log` depending on the configuration of the syslog daemon. Because the actual logging daemon being used may differ from system to system (there is syslog-ng, rsyslog, syslog "classic" etc,) you will need to refer to the local documentation or a system administrator to determine the actual logging behaviour. Some systems may for instance just drop "debug" or "trace" messages in the default configuration (or put them in separate files.)
 
-As a "plugin" to `Lumberjack` this has no methods of its own. All of the following configuration can be passed to the constructor prior to adding it to the "dispatchers" list of `Lumberjack`. 
+As a "plugin" to `Lumberjack` this has no methods of its own. All of the following configuration can be passed to the constructor prior to adding it to the "dispatchers" list of `Lumberjack`.
 
 ident
 -----
@@ -76,3 +76,4 @@ classes
 -------
 
 This is a matcher for the classes that this dispatcher wishes to handle, as described in the `Lumberjack` documentaion. This and `levels` may be particularly useful in the syslog scenaria as it enables a mapping of syslog "facilities" to different parts of an application.
+
