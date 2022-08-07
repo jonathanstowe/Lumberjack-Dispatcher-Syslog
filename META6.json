@@ -1,35 +1,37 @@
 {
   "name": "Lumberjack::Dispatcher::Syslog",
-  "version": "0.0.4",
-  "auth": "github:jonathanstowe",
-  "api": "1.0",
-  "description": "A Syslog dispatcher for the Lumberjack logger",
+  "license": "Artistic-2.0",
+  "build-depends": [
+  ],
   "source-url": "git://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog.git",
-  "support": {
-    "source": "git://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog.git",
-    "bugtracker": "https://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog/issues"
-  },
-  "perl": "6.*",
-  "raku": "6.*",
-  "resources": [],
-  "build-depends": [],
   "depends": [
     "Lumberjack",
     "Log::Syslog::Native"
   ],
-  "tags": [
-    "logger",
-    "log",
-    "syslog",
-    "lumberjack"
+  "raku": "6.*",
+  "resources": [
   ],
-  "license": "Artistic-2.0",
-  "test-depends": [],
+  "version": "0.0.5",
+  "description": "A Syslog dispatcher for the Lumberjack logger",
+  "test-depends": [
+  ],
+  "api": "1.0",
   "provides": {
     "Lumberjack::Dispatcher::Syslog": "lib/Lumberjack/Dispatcher/Syslog.pm"
   },
   "authors": [
     "Jonathan Stowe <jns+gh@gellyfish.co.uk>"
   ],
-  "meta-version": "1"
+  "meta-version": "1",
+  "support": {
+    "bugtracker": "https://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog/issues",
+    "source": "git://github.com/jonathanstowe/Lumberjack-Dispatcher-Syslog.git"
+  },
+  "auth": "zef:jonathanstowe",
+  "tags": [
+    "logger",
+    "log",
+    "syslog",
+    "lumberjack"
+  ]
 }
