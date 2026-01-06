@@ -44,7 +44,7 @@
               "children": [
                 {
                   "type": "file",
-                  "name": "Syslog.pm"
+                  "name": "Syslog.rakumod"
                 }
               ]
             }

@@ -11,13 +11,13 @@
   "raku": "6.*",
   "resources": [
   ],
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A Syslog dispatcher for the Lumberjack logger",
   "test-depends": [
   ],
   "api": "1.0",
   "provides": {
-    "Lumberjack::Dispatcher::Syslog": "lib/Lumberjack/Dispatcher/Syslog.pm"
+    "Lumberjack::Dispatcher::Syslog": "lib/Lumberjack/Dispatcher/Syslog.rakumod"
   },
   "authors": [
     "Jonathan Stowe <jns+gh@gellyfish.co.uk>"
